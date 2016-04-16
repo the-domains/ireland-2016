@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Ireland 2016]]></title>
         <description><![CDATA[Ireland 2016]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ireland-2016/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 07:18:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Apr 2016 07:45:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ireland-2016/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/de49b6d0-2698-4a07-9808-3ad84345fba4.jpg">]]></description>
+            <link>https://thegrid.ai/ireland-2016/we-took-a-trip-to-dublin-ireland-in-april-of-2016-and-we-ha/index.html</link>
+            <guid isPermaLink="false">feb9543a-0fd9-4e2e-bf36-0c52f0612f7d</guid>
+            <pubDate>Sat, 16 Apr 2016 07:45:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Martha at Giant's Causeway ]]></title>
             <description><![CDATA[<article><h1>Martha at Giant's Causeway </h1><p>Martha at Giant's Causeway</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b368156a-4bb2-40c4-8751-8e071ca043f9.png"></article>]]></description>
