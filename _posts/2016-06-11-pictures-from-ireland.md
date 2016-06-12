@@ -5,19 +5,21 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Pictures from Ireland
-datePublished: '2016-06-11T16:47:12.243Z'
-dateModified: '2016-06-11T16:42:54.366Z'
+datePublished: '2016-06-12T08:26:15.928Z'
+dateModified: '2016-06-12T08:25:56.766Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-06-11-pictures-from-ireland.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-11-pictures-from-ireland.md
 url: pictures-from-ireland/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b538e140-e10b-4f5f-b76c-9af1c00ea126.jpg)
+![A picture of Beth and the kids at the Guiness Factory](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b538e140-e10b-4f5f-b76c-9af1c00ea126.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5402788-5208-459b-b04d-d6b5acc458e7.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a78a091e-d73d-4114-8b90-13946336eca0.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6877b33-b99c-4b0e-b5cc-a4946d352e29.jpg)
