@@ -1,6 +1,6 @@
 name: Ireland 2016
 favicon: null
-layout_spectrum: 0.74856
+layout_spectrum: 0.24566
 typography_spectrum: 0.50193
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#A2E3C4'
   brandStrength: 0.39042900293134153
   lightness: 0.525826356606558
-  saturation: 0.375
+  saturation: 0.625
   rhythmicContrast: 0.25
 purpose: []
